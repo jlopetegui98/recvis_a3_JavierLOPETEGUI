@@ -71,7 +71,7 @@ The training metrics for all the approaches alreaddy tried are available in the 
 
 #### Report
 
-The report for the solution implemented is available in the file: [Report_JavierLOPETEGUI.pdf]()
+The report for the solution implemented is available in the file: [Report_JavierLOPETEGUI.pdf](https://github.com/jlopetegui98/recvis_a3_JavierLOPETEGUI/blob/main/HW3_Report_Javier_LOPETEGUI.pdf)
 
 #### Acknowledgments
 Adapted from Rob Fergus and Soumith Chintala https://github.com/soumith/traffic-sign-detection-homework.<br/>
