@@ -7,7 +7,7 @@ Javier Alejandro LOPETEGUI GONZALEZ
 *This Repository is based on the one provided with the orientation of the assigment 3 for the Object Recognition and Computer Vision class. It contains my implementations to solve this assignment. I obtained a public test accuracy of 92.89%.*
 
 ### Assignment 3: Sketch image classification
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PxshEMwNm4tLu8f_Bz_Z0emUlC1TPob4?usp=sharing)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jlopetegui98/recvis_a3_JavierLOPETEGUI/blob/main/RecVis24_A3.ipynb)
 #### Requirements
 1. Install PyTorch from http://pytorch.org
 
